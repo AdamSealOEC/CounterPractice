@@ -1,0 +1,11 @@
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_Round2.deps.json
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_Round2.runtimeconfig.json
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_Round2.runtimeconfig.dev.json
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_Round2.dll
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_Round2.pdb
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_Round2.csproj.CoreCompileInputs.cache
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_Round2.AssemblyInfoInputs.cache
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_Round2.AssemblyInfo.cs
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_Round2.dll
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_Round2.pdb
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_Round2.csprojAssemblyReference.cache

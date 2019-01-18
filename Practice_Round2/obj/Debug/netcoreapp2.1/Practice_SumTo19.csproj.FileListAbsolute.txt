@@ -1,0 +1,11 @@
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_SumTo19.csprojAssemblyReference.cache
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_SumTo19.csproj.CoreCompileInputs.cache
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_SumTo19.AssemblyInfoInputs.cache
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_SumTo19.AssemblyInfo.cs
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_SumTo19.deps.json
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_SumTo19.runtimeconfig.json
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_SumTo19.runtimeconfig.dev.json
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_SumTo19.dll
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\bin\Debug\netcoreapp2.1\Practice_SumTo19.pdb
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_SumTo19.dll
+C:\Users\aseal\source\repos\Practice_Round2\Practice_Round2\obj\Debug\netcoreapp2.1\Practice_SumTo19.pdb
